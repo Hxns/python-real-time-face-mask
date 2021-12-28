@@ -1,6 +1,8 @@
 # Real Time Face Mask APP
 
-**detect masks APP** application to to detect faces with or without masks.
+**detect masks APP** 
+
+- application to to detect faces with or without masks.
 
 # Extra
 
